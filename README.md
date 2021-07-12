@@ -1,1 +1,1 @@
-# DeepLearning-Jumpstart
+# Deep Learning Jumpstart
